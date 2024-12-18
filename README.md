@@ -60,5 +60,3 @@ I'm **Kpyr**
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kpyruy&repo=Byte&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
-
----
