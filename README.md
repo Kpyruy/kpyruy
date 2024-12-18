@@ -1,6 +1,5 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 I'm **Kpyr**  
----
 
 ## Backend & Bot Developer 🚀  
 
@@ -9,29 +8,26 @@ I'm **Kpyr**
 - 🌍 I'm based in this universe (possibly the Milky Way 🌌).  
 - ✉️ Feel free to contact me at [Kpyruy@proton.me](mailto:Kpyruy@proton.me).  
 - 🚀 Currently working on [Byte](http://github.com/Kpyruy/Byte), my latest masterpiece.  
-- 🧠 Always learning—because knowledge is power! ⚡  
-- 🦇 Secretly Batman... but you didn’t hear it from me.  
+- 🧠 Always learning something.  
+- 🦇 Secretly $obnvi|... but it's still a cipher, so good luck finding out what's in there
 
 ---
 
 ## 🛠 Skills  
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
 </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+</a> 
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+</a> 
 </p>
 
 ---
@@ -41,9 +37,6 @@ I'm **Kpyr**
 <p align="left">
 <a href="https://discord.com/users/kpyr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-</a> 
-<a href="https://www.github.com/Kpyruy" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a> 
 <a href="https://kpyr.hashnode.dev" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
@@ -69,7 +62,3 @@ I'm **Kpyr**
 </div>
 
 ---
-
-### ✨ Fun Fact  
-Did you know?  
-The first computer "bug" was an actual moth stuck in a relay in 1947!  
