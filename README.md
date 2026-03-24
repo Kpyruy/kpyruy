@@ -1,64 +1,59 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-I'm **Kpyr**  
+<h1 align="center">Kpyr</h1>
+<p align="center"><strong>I create.</strong></p>
+<p align="center">Clean tools, visual workflows, and real projects built one solid release at a time.</p>
 
-## Backend & Bot Developer 🚀  
-
-### About Me  
-
-- 🌍 I'm based in this universe (possibly the Milky Way 🌌).  
-- ✉️ Feel free to contact me at [Kpyruy@proton.me](mailto:Kpyruy@proton.me).  
-- 🚀 Currently working on [Byte](http://github.com/Kpyruy/Byte), my latest masterpiece.  
-- 🧠 Always learning something.  
-- 🦇 Secretly $obnvi|... but it's still a cipher, so good luck finding out what's in there
-
----
-
-## 🛠 Skills  
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="GNU Bash" />
-  </a>
+<p align="center">
+  <a href="mailto:Kpyruy@proton.me">Email</a>
+  �
+  <a href="https://discord.com/users/kpyr">Discord</a>
+  �
+  <a href="https://buymeacoffee.com/kpyr">Buy Me a Coffee</a>
 </p>
 
-
-
----
-
-## 🌐 Socials  
-
-<p align="left">
-<a href="https://discord.com/users/kpyr" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-</a> 
-<a href="https://hashnode.com/@kpyr" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" />
-</a>
+<p align="center">
+  <img src="assets/arbor-hero.png" alt="Arbor hero screenshot" width="1200" />
 </p>
 
----
+## About
 
-## 🏅 Badges  
+I like building things and turning ideas into something real.
 
-<a href="https://github.com/Kpyruy" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpyruy&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+Right now I am focused on learning by shipping polished projects that feel useful, calm, and well put together. I care about how a tool works, but also how it feels to use.
 
----
+| Focus | Current toolkit |
+| --- | --- |
+| Building projects that can become a real portfolio | `Python` `C++` `C#` `C` `Java` |
+| Clean UX, structure, and practical product thinking | `MongoDB` `SQL` `Linux` |
 
-## 📌 Top Repositories  
+## Featured project
 
-<div align="center">
-<a href="https://github.com/Kpyruy/Byte">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kpyruy&repo=Byte&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-</div>
+### Arbor
+
+A writing-first branching editor for Obsidian.
+
+Arbor lets a note grow as small connected blocks arranged left to right while keeping the note itself as normal Markdown. No export step. No separate canvas file. One note, one source of truth.
+
+- structured writing without copy-paste chaos
+- inline editing and keyboard-first navigation
+- drag-and-drop branching with normal Markdown underneath
+- designed to feel calm, visual, and precise
+
+<p>
+  <a href="https://github.com/Kpyruy/Arbor"><strong>Open repository</strong></a>
+</p>
+
+<p align="center">
+  <img src="assets/arbor-preview.gif" alt="Arbor interaction preview" width="1200" />
+</p>
+
+## What I'm building toward
+
+- tools that feel intentional instead of noisy
+- projects strong enough to serve as a real portfolio
+- software that stays simple on the surface and solid underneath
+
+## Contact
+
+- Email: [Kpyruy@proton.me](mailto:Kpyruy@proton.me)
+- Discord: [kpyr](https://discord.com/users/kpyr)
+- Support: [buymeacoffee.com/kpyr](https://buymeacoffee.com/kpyr)
