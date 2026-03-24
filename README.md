@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="mailto:Kpyruy@proton.me">Email</a>
-  ·
+  Â·
   <a href="https://discord.com/users/kpyr">Discord</a>
-  ·
+  Â·
   <a href="https://buymeacoffee.com/kpyr">Buy Me a Coffee</a>
 </p>
 
 <p align="center">
-  <img src="assets/arbor-hero.png" alt="Arbor hero screenshot" width="1200" />
+  <img src="assets/Kpyr.png" alt="Arbor hero screenshot" width="1200" />
 </p>
 
 ## About
